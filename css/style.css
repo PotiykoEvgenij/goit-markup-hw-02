@@ -95,6 +95,7 @@ li {
     width: 170px;
     height: 50px;
     color: #ffffff;
+    cursor: pointer;
 }
 
 /* Section 1 */
@@ -176,6 +177,7 @@ footer {
     font-size: 16px;
     line-height: 1.5;
     height: 50px;
+    cursor: pointer;
 }
 .filter-button:hover, .filter-button:focus {
     background-color: var(--primary-brand);
